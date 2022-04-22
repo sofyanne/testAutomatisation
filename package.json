@@ -1,0 +1,23 @@
+{
+  "name": "testautomatisation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofyanne/testAutomatisation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofyanne/testAutomatisation/issues"
+  },
+  "homepage": "https://github.com/sofyanne/testAutomatisation#readme",
+  "dependencies": {
+    "jasmine": "^4.1.0",
+    "jasmine-core": "^4.1.0"
+  }
+}
